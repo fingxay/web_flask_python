@@ -73,13 +73,13 @@ Truy cập: http://127.0.0.1:5000/dashboard
 ## Tính năng
 
 ### Dashboard Admin
-- ✅ Thống kê tổng quan (Tổng sản phẩm, số lượng, doanh thu)
-- ✅ Biểu đồ cột tương tác (Plotly)
-- ✅ Biểu đồ tròn phân bổ doanh thu (Plotly)
-- ✅ Dashboard đa biểu đồ (Subplots)
-- ✅ Bảng chi tiết sản phẩm
-- ✅ Xử lý dữ liệu với Pandas
-- ✅ Server-Side Rendering (không viết JS thủ công)
+- Thống kê tổng quan (Tổng sản phẩm, số lượng, doanh thu)
+- Biểu đồ cột tương tác (Plotly)
+- Biểu đồ tròn phân bổ doanh thu (Plotly)
+- Dashboard đa biểu đồ (Subplots)
+- Bảng chi tiết sản phẩm
+- Xử lý dữ liệu với Pandas
+- Server-Side Rendering (không viết JS thủ công)
 
 ## Tech Stack
 
