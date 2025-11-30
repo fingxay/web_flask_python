@@ -27,8 +27,10 @@ def dashboard():
         values=values,
         total_products=total_products,
         total_quantity=total_quantity,
-        total_revenue=total_revenue
+        total_revenue=total_revenue,
+        active="dashboard"
     )
+
 
 if __name__ == "__main__":
     app.run(debug=True)
